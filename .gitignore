@@ -1,0 +1,19 @@
+# Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+#Pycharm /Jet brains IDE
+.idea/
+*.log
+
+#OS files
+.DS_Store
+thumbs.db
